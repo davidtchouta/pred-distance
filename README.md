@@ -14,11 +14,6 @@ This a personal project developped from scratch by me.
 ### Launch a Github Codespace 16RAM VM 
 
 ### Project structure
-```bash
-mkdir -p app data scripts tests .github/workflows
-touch app/main.py app/__init__.py scripts/preprocess.py scripts/train.py tests/test_flask.py tests/test_model.py scripts/predict.py requirements.txt Dockerfile .github/workflows/ci-cd.yml
-```
-
 ```plaintext
 root/
 ├── data/
@@ -53,3 +48,9 @@ python -m venv distenv
 source distenv/bin/activate  # Sur Windows : venv\Scripts\activate
 pip install --upgrade pip
 ```
+
+```bash
+mkdir -p app data scripts tests .github/workflows
+touch app/main.py app/__init__.py scripts/preprocess.py scripts/train.py tests/test_flask.py tests/test_model.py scripts/predict.py requirements.txt Dockerfile .github/workflows/ci-cd.yml
+```
+
