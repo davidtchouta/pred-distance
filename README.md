@@ -11,7 +11,7 @@ This a personal project developped from scratch by me.
 
 # Project's steps and code
 **Clone a repository**
-'''
+python '''
 git clone https://github.com/<votre-utilisateur>/ml-distance-prediction.git
 cd ml-distance-prediction
 '''
