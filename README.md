@@ -61,6 +61,23 @@ touch app/main.py app/__init__.py scripts/preprocess.py scripts/train.py tests/t
 pip install pandas openpyxl
 ```
 
-### Creation Editing a jupyter notebook preprocess.ipynb to read a xlsx file
+### Creation and Editing a jupyter notebook preprocess.ipynb to read a xlsx file
 
 Warning : Make sure to select your python virtual environment to run the code
+
+###create a git branch 
+```bash
+//verify the active branch
+git branch 
+//go the specific branch
+git checkout develop
+// update the basis branch (not mandatory but recommended)
+git pull origin develop
+// Create and jump in the new branch
+git checkout -b data-cleaning
+git checkout -b data-analysis
+// push in the distant folder (recommended)
+git push -u origin data-cleaning
+git push -u origin data-analysis
+```
+
