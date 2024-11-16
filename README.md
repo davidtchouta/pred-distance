@@ -54,3 +54,11 @@ mkdir -p app data scripts tests .github/workflows
 touch app/main.py app/__init__.py scripts/preprocess.py scripts/train.py tests/test_flask.py tests/test_model.py scripts/predict.py requirements.txt Dockerfile .github/workflows/ci-cd.yml
 ```
 
+### add xlsx database in data folder
+
+### install library to read xlsx file
+```python
+pip install pandas openpyxl
+```
+
+### Creation Editing a jupyter notebook preprocess.ipynb to read a xlsx file
