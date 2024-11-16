@@ -62,3 +62,5 @@ pip install pandas openpyxl
 ```
 
 ### Creation Editing a jupyter notebook preprocess.ipynb to read a xlsx file
+
+Warning : Make sure to select your python virtual environment to run the code
