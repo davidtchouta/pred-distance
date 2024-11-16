@@ -10,8 +10,10 @@ These are time series data.
 This a personal project developped from scratch by me. 
 
 ## Project's steps and code
-**Clone a repository**
+### Launch a Github Codespace 16RAM VM 
+
+### Clone a repository
 ```bash
-git clone https://github.com/<votre-utilisateur>/ml-distance-prediction.git
-cd ml-distance-prediction
+git clone https://github.com/davidtchouta/pred-distance.git
+cd pred-distance
 ```
