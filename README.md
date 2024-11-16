@@ -7,4 +7,4 @@ These are time series data.
 
 # I will deploy the model locally and on cloud (Azure, AWS, GCP) using github CICD operations
 
-This a personal project develop from scratch by me. 
+This a personal project developped from scratch by me. 
