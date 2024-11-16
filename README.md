@@ -14,4 +14,4 @@ This a personal project developped from scratch by me.
 ```bash
 git clone https://github.com/<votre-utilisateur>/ml-distance-prediction.git
 cd ml-distance-prediction
-```python
+```
