@@ -68,7 +68,8 @@ Warning : Make sure to select your python virtual environment to run the code
 ###create a git branch 
 ```bash
 //verify the active branch
-git branch 
+
+
 //go the specific branch
 git checkout develop
 // update the basis branch (not mandatory but recommended)
